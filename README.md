@@ -5,7 +5,7 @@
 ### PROJECT OVERVIEW 
 This project focuses on analyzing customer data to gain insights into subscription behaviour, revenue patterns and customer retention across various regions.
 
-### DATA SOURCES    vm
+### DATA SOURCES    
 The data used here was provided by the facilitatos.
 
 ### TOOLS
@@ -28,8 +28,25 @@ EDA was uses to answer the following
   
 ![Screenshot (36)](https://github.com/user-attachments/assets/56d38afc-9174-4ae0-b89e-ab467931a663)
 
-Below are some of the syntaxes used in SQL for quering data 
+Below are some of the syntaxes used in SQL for quering data. 
+- To get the average subscription duration 
+- To get the total number of customers by region
+ 
+```sQL
+select AVG(datediff(day,subscriptionstart,subscriptionend))
+ as AverageSubscriptionDuration
+ from [dbo].[CUSTOMER DATA ]
+ where subscriptionend is not null
 
+
+ select region,
+ count(distinct customerid)
+ as totalcustomers
+ from [dbo].[CUSTOMER DATA ]
+ group by region
+```
+
+ 
 
 A pictorial representations queries used for the project
 
