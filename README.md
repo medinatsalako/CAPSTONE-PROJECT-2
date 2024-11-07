@@ -48,7 +48,7 @@ select AVG(datediff(day,subscriptionstart,subscriptionend))
 
  
 
-A pictorial representations queries used for the project in SQL
+A pictorial representations of the queries used for the project in SQL
 
 
 ![Screenshot (37)](https://github.com/user-attachments/assets/5b50cdf2-7430-4248-bc95-d97dec1d515f)
