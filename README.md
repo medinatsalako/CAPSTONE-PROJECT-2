@@ -23,3 +23,7 @@ EDA was uses to answer the following
 
   ### DATA ANALYSIS
   Below is a pictorial representation of the exploration analysis done with pivot table in Excel
+
+ ![Screenshot (33)](https://github.com/user-attachments/assets/5c2e5a6e-08ea-4890-bd78-10fa657a9bc4)
+  
+![Screenshot (36)](https://github.com/user-attachments/assets/56d38afc-9174-4ae0-b89e-ab467931a663)
