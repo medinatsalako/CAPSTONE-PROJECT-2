@@ -6,7 +6,14 @@
 This project focuses on analyzing customer data to gain insights into subscription behaviour, revenue patterns and customer retention across various regions.
 
 ### DATA SOURCES 
-The source of data used are as follows;
-- Microsoft Excel for data cleaning and Analysis 
-- SQl for querying data
-- Power BI for visualisation
+The data used here was provided by the facilitatos.
+
+### TOOLS
+The tools used for this project are ;
+- Microsoft Excel for data cleaning 
+- SQL for data Querying
+- Power Bi for visualisations  
+
+
+
+- 
