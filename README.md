@@ -15,5 +15,11 @@ The tools used for this project are ;
 - Power Bi for visualisations  
 
 
+### EXPLORATORY DATA ANALYSIS 
+EDA was uses to answer the following 
+- what is the overall customer behaviour
+- what is the most preferred/popular subscription type
+- what subscription type generates the peak revenue
 
-- 
+  ### DATA ANALYSIS
+  Below is a pictorial representation of the exploration analysis done with pivot table in Excel
