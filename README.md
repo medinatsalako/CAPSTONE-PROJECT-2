@@ -29,11 +29,11 @@ The data used here was provided by the facilitatos.
 The data used for this project consists of the following;
 - Customerid 
 - Customer name
+- Region 
 - Subscription start 
 - Subscription end
 - Subscription type
 - Canceled
-- Region
 - Revenue
 
 ### PROJECT OBJECTIVES 
