@@ -5,11 +5,17 @@
 
 [DATA SOURCES](#data-sources)
 
+[DATA COLLECTION ](#data-collection)
+
+[PROJECT OBJECTIVES ](project -objectives )
+
 [TOOLS](#tools)
 
 [EXPLORATORY DATA ANALYSIS ](exploratory-data-analysis)
 
 [DATA ANALYSIS ](data-analysis )
+
+[DATA VISUALISATIONS ](#data-visualisations )
 
 
 ### PROJECT OVERVIEW 
@@ -18,6 +24,13 @@ This project focuses on analyzing customer data to gain insights into subscripti
 
 ### DATA SOURCES    
 The data used here was provided by the facilitatos.
+
+### DATA COLLECTION 
+The data used for this project consists of the following;
+- Subscription type
+- Canceled
+- Region
+- Revenue
 
 ### TOOLS
 The tools used for this project are ;
