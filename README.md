@@ -36,6 +36,8 @@ The data used for this project consists of the following;
 - Region
 - Revenue
 
+### PROJECT OBJECTIVES 
+This project aims to monitor the subscription status to better understand customers behaviour/activity. It aims to support data driven decision-making by providing accessible insights on customer behaviour and revenue pattern
 ### TOOLS
 The tools used for this project are ;
 - Microsoft Excel for data cleaning 
