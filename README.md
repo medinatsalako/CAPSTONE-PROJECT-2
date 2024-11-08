@@ -1,8 +1,9 @@
 # CAPSTONE-PROJECT-2
 
 ### PROJECT TITLE : Customer data 
-
+[PROJECT OVERVIEW](#project overview)
 ### PROJECT OVERVIEW 
+
 This project focuses on analyzing customer data to gain insights into subscription behaviour, revenue patterns and customer retention across various regions.
 
 ### DATA SOURCES    
