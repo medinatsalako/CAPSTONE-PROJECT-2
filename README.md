@@ -2,8 +2,16 @@
 
 ### PROJECT TITLE : Customer data 
 [PROJECT OVERVIEW](#project-overview)
+
 [DATA SOURCES](#data-sources)
+
 [TOOLS](#tools)
+
+[EXPLORATORY DATA ANALYSIS ](exploratory-data-analysis)
+
+[DATA ANALYSIS ](data-analysis )
+
+
 ### PROJECT OVERVIEW 
 
 This project focuses on analyzing customer data to gain insights into subscription behaviour, revenue patterns and customer retention across various regions.
