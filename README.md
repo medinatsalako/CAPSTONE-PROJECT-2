@@ -27,10 +27,10 @@ The data used here was provided by the facilitatos.
 
 ### DATA COLLECTION 
 The data used for this project consists of the following;
--Customerid 
--Customer name
--Subscription start 
--Subscription end
+- Customerid 
+- Customer name
+- Subscription start 
+- Subscription end
 - Subscription type
 - Canceled
 - Region
